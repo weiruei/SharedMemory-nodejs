@@ -8,4 +8,4 @@ Please refer to the windows version example.
 
 also it's supported the linux, just require the respective .node file in js.
 
-if you want rebuild the .node file, jusr refer to readme in source folder.
+if you want rebuild the .node file, just refer to readme in source folder.
