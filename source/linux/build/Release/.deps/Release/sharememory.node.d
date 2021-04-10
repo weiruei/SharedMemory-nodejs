@@ -1,0 +1,1 @@
+cmd_Release/sharememory.node := ln -f "Release/obj.target/sharememory.node" "Release/sharememory.node" 2>/dev/null || (rm -rf "Release/sharememory.node" && cp -af "Release/obj.target/sharememory.node" "Release/sharememory.node")
