@@ -1,9 +1,9 @@
 #execute main
 
-node main.js
+    node main.js
 
 #execute sub
 
-node sub.js
+    node sub.js
 
 #that you can pass string from main to sub
